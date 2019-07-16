@@ -1,0 +1,2 @@
+[0603/033105.171:ERROR:file_io_win.cc(170)] CreateFile C:\Users\tina2\AppData\Local\Temp\scoped_dir6548_16928\Crashpad\reports\fa63255e-3699-43e3-af7d-b568da9c57ab.dmp: The system cannot find the path specified. (0x3)
+[0603/033105.171:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
